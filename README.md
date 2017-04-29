@@ -1,0 +1,2 @@
+# Number-Puzzle
+An intuitive java based game, with the objective to arrange the number from 1-8 in correct order. The game provides interactive interface. It also helps the user by providing hints in case needed. The tab “Solution exists” tells the user to solve current situation.The randomise button restarts the game by disturbing the correct order. The user is also notified about the number of moves the user took to complete the game
